@@ -1,5 +1,5 @@
 {
-  "author": "Benjamin Pannell <admin@sierrasoftworks.com>",
+  "author": "Tom Wu <project.w@gmail.com>",
   "name": "orm-timestamps",
   "description": "ORM modification and creation timestamps",
   "keywords": [
@@ -12,7 +12,7 @@
   "version": "0.5.2",
   "license": "MIT",
   "repository": {
-    "url": "http://github.com/SPARTAN563/node-orm-timestamps"
+    "url": "https://github.com/tomzilla/node-orm-timestamps"
   },
   "contributors": [
     {
@@ -26,6 +26,10 @@
     {
       "name": "ajostergaard",
       "website": "https://github.com/ajostergaard"
+    },
+    {
+      "name": "tomzilla",
+      "website": "https://github.com/tomzilla/"
     }
   ],
   "scripts": {
